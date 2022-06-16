@@ -1,6 +1,8 @@
-<channel>
-     <title><![CDATA[]]></title>
-     <stream_url><![CDATA[https://bitmovin-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8]]></stream_url>
-     <logo_30x30><![CDATA[http://epg.ignorelist.com:8881/epg/epg_uk//logos/1.png]]></logo_30x30>
-     <description><![CDATA[epg_url:iptvx.info:80/epg/teleguide.php||]]></description>
-</channel>
+<tv>
+    <channel>
+        <title><![CDATA[]]></title>
+        <stream_url><![CDATA[https://bitmovin-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8]]></stream_url>
+        <logo_30x30><![CDATA[http://epg.ignorelist.com:8881/epg/epg_uk//logos/1.png]]></logo_30x30>
+        <description><![CDATA[epg_url:iptvx.info:80/epg/teleguide.php||]]></description>
+    </channel>
+<tv>
